@@ -76,7 +76,9 @@ font-weight: bold;
     text-align: center;
     padding: 20px;
     gap: 20px;
-    height: 100vh;
+    height: auto;
+     flex-grow: 1;
+
 }
 .cards h2{
     margin-bottom: 30px;
